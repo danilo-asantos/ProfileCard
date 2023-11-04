@@ -11,7 +11,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![image](https://github.com/danilo-asantos/ProfileCard/assets/120734288/e36a90a8-1378-4732-b35d-483a1e212ecc)
 
 
-## My process
+## Links
+- Live site URL: https://danilo-asantos.github.io/ProfileCard/
 
 ### Built with
 
